@@ -1,4 +1,4 @@
-# Titel lokal
+# Titel
 
 Das ist ein *git* Tutorial.
 
